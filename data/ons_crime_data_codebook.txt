@@ -1,0 +1,40 @@
+- ons_source_crime_data.xlsx
+
+According to the Office for National Statistics website (n.d), this document contains:
+
+	"Trends in Crime Survey for England and Wales (CSEW) crime experienced by adults and children aged 10 to 15 years and Home Office police recorded crime, by offence type. Also includes trends in offender relationship of CSEW violence. Because of the suspension of the face-to-face CSEW on 17 March 2020, owing to the coronavirus (COVID-19) pandemic, data tables from the year ending June 2020 to the year ending March 2022 shown in this workbook also include data from the Telephone-operated Crime Survey for England and Wales (TCSEW). Crime survey data on crimes experienced by children aged 10 to 15 years currently remain unavailable from the year ending June 2020 onwards."
+
+Data collection
+
+- The Crime Survey for England and Wales (CSEW)(https://www.crimesurvey.co.uk/en/HomeReadMore.html) is a face-to-face victimisation survey that collects data on people's experiences with crime. The survey is conducted by Kantar Public on behalf of the Office for National Statistics, since 1981.
+
+-  This is data collected by the police on crimes reported to them, including details such as the type of crime, location, and demographic information about the offender and victim.
+
+
+
+The document contains excels sheets with the following information:
+
+- A cover sheet with information on the data and contact details; 
+- Table of contents;
+- Notes to assist interpretation of specific figures; 
+- Summary Table 1: Police recorded crimes - rates, numbers and percentages;
+- Table A1: Trends in CSEW incidents of crime, adults aged 16 and over/households with percentage change and statistical significance of change;
+- Table A2: Trends in CSEW incidence rates, adults aged 16 and over/households, with percentage change and statistical significance of change;
+- Table A3: Trends in CSEW percentages of adults aged 16 and over/households who were victims once or more (prevalence risks), with percentage point change and statistical significance of change;
+- Table A4: Police recorded crime by offence, year ending March 2003 to year ending September 2022 and percentage change between the year ending September 2022 and year ending March 2020 and year ending September 2021;
+- A4 Notes: NOTES TO ACCOMPANY TABLE A4;
+-Table 5: Fraud and computer misuse number of offences recorded by Action Fraud or referred to the National Fraud Intelligence Bureau (NFIB), with percentage change;
+- A5 Notes: NOTES TO ACCOMPANY TABLE A5
+- Table A6: Trends in the offender relationship of CSEW violence, adults aged 16 and over, with percentage change and statistical significance of change; 
+- Table A7: Police recorded crime rates, in England and Wales, rates per 1,000 population from the year ending March 2003 to the year ending September 2022;
+- Table A8: Trends in CSEW victims of crime, adults aged 16 and over/households with percentage change and statistical significance of the change.
+
+The main crime group types are "Violence", "Robbery", "Theft Offences", "Criminal Damage", "Fraud", and "Computer Misuse". The number of recorded cases of each category is plotted on the y-axis against the years on the x-axis. 
+
+Some shorthand is used in this table: [x] indicates that data are not available. [s] indicates there is a statistically significant change at the 5% level.
+
+
+References
+Office for National Statistics. (n.d.) Crime in England and Wales: Appendix tables. https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesappendixtables 
+
+Kantar Public. (n.d) Crime Survey for England and Wales. https://www.crimesurvey.co.uk/en/HomeReadMore.html
